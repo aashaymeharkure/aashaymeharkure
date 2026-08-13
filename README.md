@@ -1,210 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,70:4F46E5,100:00D9FF&height=300&section=header&text=AASHAY%20MEHARKURE&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=18&descAlignY=57&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:00c9a7&height=230&section=header&text=Aashay%20Meharkure&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20%7C%20Software%20%7C%20AI%20%7C%20Building%20Things&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Software+Developer;AI%2FML+Enthusiast;Computer+Vision+Builder;Backend+%26+Full-Stack+Developer;Always+Learning.+Always+Building." />
+### Computer Engineering Student • Software Developer • AI/ML Builder
 
-<br><br>
+<br>
 
 <a href="https://github.com/aashaymeharkure">
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aashay-meharkure-8a4592244/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://aashaymeharkure06.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00A98F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aashaymeharkure&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/aashaymeharkure?style=for-the-badge&color=4F46E5&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/aashaymeharkure?style=for-the-badge&color=F59E0B&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=aashaymeharkure&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/aashaymeharkure?label=FOLLOWERS&style=for-the-badge&color=00A98F"/>
+<img src="https://img.shields.io/github/stars/aashaymeharkure?label=TOTAL%20STARS&style=for-the-badge&color=6f42c1"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-# ⚡ WHO AM I?
+I'm a **Computer Engineering student** who enjoys turning ideas into
+working software.
 
-### I don't just learn technology.
+My interests sit at the intersection of **software engineering,
+artificial intelligence, computer vision, algorithms and system design**.
 
-### **I build with it.**
+I like building projects that are more than just code — projects that
+have a usable interface, a backend, data processing, visualization or
+an actual real-world use case.
 
-</div>
+### ⚡ What I Build
 
-<br>
-
-I'm **Aashay Meharkure**, a Computer Engineering student who enjoys turning
-ideas into systems people can actually interact with.
-
-My interests live somewhere between **software engineering, artificial
-intelligence, computer vision, algorithms, backend systems and product
-development**.
-
-I like projects that force me to understand what is happening underneath
-the interface — from algorithms and data structures to APIs, databases,
-prediction systems and intelligent decision-making.
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   THINK → DESIGN → BUILD → BREAK → DEBUG → IMPROVE → SHIP       │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+* 🤖 AI-powered applications
+* 👁️ Computer Vision & ANPR systems
+* ⚙️ Backend & full-stack applications
+* 🧠 Algorithms & intelligent systems
+* 🗄️ Database-driven applications
+* 🎨 Interactive developer experiences
 
 ---
 
-# 🧬 MY ENGINEERING DNA
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+### Languages
 
-### 🤖
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql&perline=5"/>
 
-**AI / ML**
+### Web & Development
 
-Intelligent systems
-Prediction
-Automation
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css&perline=6"/>
 
-</td>
+### AI / Data / Tools
 
-<td align="center" width="25%">
-
-### 👁️
-
-**COMPUTER VISION**
-
-OpenCV
-OCR
-ANPR
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**ENGINEERING**
-
-Backend
-Algorithms
-Databases
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**PRODUCT**
-
-React
-UI / UX
-Interactive Apps
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=opencv,mysql,git,github,vscode&perline=5"/>
 
 </div>
 
 ---
 
-# 🚀 PROJECT UNIVERSE
-
-<div align="center">
-
-### Projects where the code meets the real world.
-
-</div>
-
-<br>
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h2>🤖 ARTEMIS 2.0</h2>
+## 🤖 ARTEMIS 2.0
 
-<h3>AI-Powered League Draft Intelligence</h3>
+### Intelligent LoL Draft Assistant
 
-A strategic drafting assistant designed to help analyze
-League of Legends draft decisions.
+A real-time drafting assistant designed for League of Legends coaching
+and competitive analysis.
 
-<br>
+**Highlights**
 
-**⚡ What makes it interesting**
+* 📈 Win-probability prediction
+* 🧠 Explainable AI-style factor breakdown
+* 🎯 Pick / ban recommendations
+* ⏪ Strategic Time Machine
+* 📦 JSON strategy export
+* 🎙️ Voice command MVP
+* 🔌 GRID API + deterministic fallback
 
-* Win-probability prediction
-* Pick / ban recommendations
-* Explainable decision factors
-* Strategic Time Machine
-* JSON strategy export
-* Voice-control MVP
-* GRID API integration
-* Deterministic fallback systems
-
-<br>
-
-**STACK**
+**Stack**
 
 `React` `Vite` `Node.js` `Express` `AI`
 
 <br>
 
 <a href="https://github.com/aashaymeharkure/cloud9-assistant">
-<img src="https://img.shields.io/badge/EXPLORE%20ARTEMIS-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2>🚘 TRAFFIC ENFORCE</h2>
+## 🚘 TrafficEnforce
 
-<h3>AI-Powered Number Plate Detection</h3>
+### AI-Powered Number Plate Detection
 
-A computer-vision traffic enforcement system combining
-plate detection, OCR, AI extraction and a JavaFX interface.
+A computer-vision based traffic enforcement system combining detection,
+OCR and a JavaFX interface.
 
-<br>
+**Highlights**
 
-**⚡ What makes it interesting**
+* 📷 Image & webcam detection
+* 🔎 OpenCV plate detection
+* 🔤 Tesseract OCR
+* ✨ Gemini-assisted extraction
+* 🇮🇳 Indian number-plate formatting
+* 📋 Violation management
+* 💾 Detection logging
+* 🖥️ JavaFX interface
 
-* Image detection
-* Webcam detection
-* OpenCV processing
-* Tesseract OCR
-* Gemini-assisted extraction
-* Indian plate formatting
-* Violation logging
-* CSV-based records
-* JavaFX interface
-
-<br>
-
-**STACK**
+**Stack**
 
 `Python` `OpenCV` `Tesseract` `Gemini` `JavaFX`
 
 <br>
 
 <a href="https://github.com/aashaymeharkure/NumberPlateDetection">
-<img src="https://img.shields.io/badge/EXPLORE%20TRAFFIC%20ENFORCE-00A98F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -215,65 +147,57 @@ plate detection, OCR, AI extraction and a JavaFX interface.
 
 <td width="50%" valign="top">
 
-<h2>⚡ CACHE X</h2>
+## ⚡ CacheX
 
-<h3>Adaptive Intelligent Cache Management</h3>
+### Adaptive Intelligent Cache Management
 
-A cache system that dynamically combines recency,
-frequency and prediction to make smarter caching decisions.
+An intelligent caching system that dynamically balances **recency and
+frequency** while predicting future requests.
 
-<br>
+**Highlights**
 
-**⚡ What makes it interesting**
+* 🔄 Hybrid LRU + LFU strategy
+* 📊 Entropy-based adaptation
+* 🔮 Markov-chain prediction
+* ⚡ Predictive prefetching
+* 📈 Live cache benchmarking
+* 🖥️ Interactive visualization
+* ☕ Java backend
+* 🌐 Modern web frontend
 
-* Hybrid LRU + LFU
-* Entropy-based adaptation
-* Markov prediction
-* Predictive prefetching
-* Cache benchmarking
-* Performance visualization
-* Java backend
-* Modern web frontend
-
-<br>
-
-**STACK**
+**Stack**
 
 `Java` `Spring Boot` `Next.js` `Algorithms`
 
 <br>
 
 <a href="https://github.com/aashaymeharkure/CacheX">
-<img src="https://img.shields.io/badge/EXPLORE%20CACHE%20X-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2>🌐 PORTFOLIO</h2>
+## 🌐 Personal Portfolio
 
-<h3>My Digital Headquarters</h3>
+### Creative Developer Portfolio
 
-A React + Vite portfolio designed to showcase my work,
-technology stack, roadmap and developer identity.
+A modern interactive portfolio built with React and Vite to showcase
+projects, skills, development roadmap and contact information.
 
-<br>
+**Highlights**
 
-**⚡ What makes it interesting**
+* ✨ Animated preloader
+* 🎨 Custom visual background
+* 🧩 Component-based architecture
+* 🛠️ Interactive tech stack
+* 🚀 Project showcase
+* 📍 Development roadmap
+* 📬 Contact section
+* 🛡️ React error boundary
 
-* Interactive UI
-* Animated experience
-* Custom visual design
-* Project showcase
-* Technology section
-* Development roadmap
-* Contact system
-* Component architecture
-
-<br>
-
-**STACK**
+**Stack**
 
 `React` `Vite` `JavaScript` `CSS`
 
@@ -282,11 +206,9 @@ technology stack, roadmap and developer identity.
 <a href="https://aashaymeharkure06.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00A98F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
- 
-
+&nbsp;
 <a href="https://github.com/aashaymeharkure/portfolio">
-<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -296,66 +218,31 @@ technology stack, roadmap and developer identity.
 
 ---
 
-# 🧪 OTHER EXPERIMENTS
+# 🧠 What I'm Interested In
 
 <div align="center">
 
-<table>
+| 🤖 Artificial Intelligence | 👁️ Computer Vision | ⚙️ Software Engineering |
+| :------------------------: | :-----------------: | :---------------------: |
+|    ML & AI Applications    |      ANPR / OCR     |    Full-Stack Systems   |
+|     Intelligent Systems    |   Image Processing  |   Backend Development   |
 
-<tr>
-<td align="center">
-
-### 🛠️
-
-**LEARN • BUILD • CHECK • RUN**
-
-A development / experimentation repository.
-
-</td>
-
-<td align="center">
-
-### 🔍
-
-**NUMBER PLATE DETECTION**
-
-Computer-vision experimentation and earlier implementation.
-
-</td>
-
-<td align="center">
-
-### 🧠
-
-**CACHE X**
-
-Algorithmic caching experimentation and system development.
-
-</td>
-</tr>
-
-</table>
+|     🧠 Algorithms     |    🗄️ Databases   |  🎨 Product Development  |
+| :-------------------: | :----------------: | :----------------------: |
+|   DSA & Optimization  | SQL & Data Systems |          UI / UX         |
+| Predictive Algorithms |    Data Modeling   | Interactive Applications |
 
 </div>
 
-> Some repositories are forks or earlier iterations of larger projects,
-> so they are intentionally not presented as separate flagship projects.
-
 ---
 
-# 🧰 TECHNOLOGY ARMORY
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&perline=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aashaymeharkure&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,spring,mysql&perline=6"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,opencv,vercel&perline=5"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashaymeharkure&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -363,66 +250,13 @@ Algorithmic caching experimentation and system development.
 
 <div align="center">
 
-```text
-LANGUAGES        →  Python • Java • C++ • JavaScript • SQL
-FRONTEND         →  React • Vite • HTML • CSS
-BACKEND          →  Node.js • Express • Spring Boot
-DATABASES        →  MySQL • SQL
-AI / VISION      →  OpenCV • OCR • AI APIs
-TOOLS            →  Git • GitHub • VS Code • Vercel
-CORE             →  DSA • Algorithms • System Design
-```
-
-</div>
-
----
-
-# 🧠 CURRENTLY IN MY LAB
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  🤖 AI / ML                                                  ║
-║     └─ Building practical intelligent applications          ║
-║                                                              ║
-║  👁️ COMPUTER VISION                                           ║
-║     └─ Detection • OCR • Image Processing                   ║
-║                                                              ║
-║  ⚙️ SYSTEMS                                                  ║
-║     └─ Algorithms • Caching • Performance                    ║
-║                                                              ║
-║  🌐 FULL STACK                                                ║
-║     └─ Frontend • Backend • APIs • Databases                 ║
-║                                                              ║
-║  🚀 NEXT                                                     ║
-║     └─ Bigger systems. Better architecture.                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# 📊 GITHUB // SYSTEM TELEMETRY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aashaymeharkure&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashaymeharkure&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashaymeharkure&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
 ---
 
-# 🏆 CONTRIBUTION MATRIX
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -432,123 +266,52 @@ CORE             →  DSA • Algorithms • System Design
 
 ---
 
-# 📡 ACTIVITY STREAM
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aashaymeharkure&bg_color=050816&color=00D9FF&line=4F46E5&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aashaymeharkure&bg_color=0d1117&color=58a6ff&line=00c9a7&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 THE CONTRIBUTION SNAKE
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-snake-dark.svg"
-  />
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-snake.svg"
-/>
-
-<img
- src="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-snake.svg"
- alt="GitHub Contribution Snake"
- width="100%"
-/> </picture>
+<img src="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🛰️ THE ROAD AHEAD
+# 🌐 Let's Connect
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="20%">
-🚀<br><b>BUILD</b><br>
-More real-world systems
-</td>
-
-<td align="center" width="20%">
-🧠<br><b>LEARN</b><br>
-AI & intelligent systems
-</td>
-
-<td align="center" width="20%">
-⚡<br><b>OPTIMIZE</b><br>
-Better algorithms
-</td>
-
-<td align="center" width="20%">
-🌎<br><b>SHIP</b><br>
-Useful products
-</td>
-
-<td align="center" width="20%">
-🔥<br><b>REPEAT</b><br>
-Forever curious
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🤝 LET'S BUILD SOMETHING
-
-<div align="center">
-
-### Have an idea?
-
-### Have a problem worth solving?
-
-### Or just want to talk tech?
-
-<br>
+<a href="https://github.com/aashaymeharkure">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://www.linkedin.com/in/aashay-meharkure-8a4592244/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
- 
-
 <a href="https://aashaymeharkure06.vercel.app/">
-<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00A98F?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
 
-<br><br>
+---
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│             BUILDING THE FUTURE, ONE PROJECT                │
-│                         AT A TIME.                           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+### 💡 Build. Learn. Experiment. Repeat.
 
 <br>
 
-### ⚡ Build • Break • Learn • Repeat ⚡
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4F46E5,100:050816&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:667eea&height=120&section=footer"/>
 
 </div>
