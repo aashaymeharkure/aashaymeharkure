@@ -1,30 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:00c9a7&height=230&section=header&text=Aashay%20Meharkure&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20%7C%20Software%20%7C%20AI%20%7C%20Building%20Things&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+# ⚡ AASHAY MEHARKURE
 
-<br>
+### `ENGINEER` • `BUILDER` • `AI/ML` • `COMPUTER VISION` • `SYSTEMS`
 
-### Computer Engineering Student • Software Developer • AI/ML Builder
+> **Turning ideas into intelligent, usable software.**
 
 <br>
 
 <a href="https://github.com/aashaymeharkure">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aashay-meharkure-8a4592244/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://aashaymeharkure06.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00A98F?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aashaymeharkure&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/aashaymeharkure?label=FOLLOWERS&style=for-the-badge&color=00A98F"/>
-<img src="https://img.shields.io/github/stars/aashaymeharkure?label=TOTAL%20STARS&style=for-the-badge&color=6f42c1"/>
+<img src="https://komarev.com/ghpvc/?username=aashaymeharkure&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -38,9 +36,9 @@ working software.
 My interests sit at the intersection of **software engineering,
 artificial intelligence, computer vision, algorithms and system design**.
 
-I like building projects that are more than just code — projects that
-have a usable interface, a backend, data processing, visualization or
-an actual real-world use case.
+I like building projects that go beyond just writing code — projects
+with usable interfaces, intelligent systems, backend logic, data
+processing, visualization and real-world applications.
 
 ### ⚡ What I Build
 
@@ -53,32 +51,31 @@ an actual real-world use case.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ TECH STACK
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&perline=6"/>
 
-### Web & Development
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css&perline=6"/>
+### 🌐 Web & Development
 
-### AI / Data / Tools
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,spring&perline=5"/>
 
-<img src="https://skillicons.dev/icons?i=opencv,mysql,git,github,vscode&perline=5"/>
+<br><br>
+
+### 🤖 AI / Data / Tools
+
+<img src="https://skillicons.dev/icons?i=opencv,mysql,git,github,vscode,vercel&perline=6"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
+# 🚀 FEATURED PROJECTS
 
 ## 🤖 ARTEMIS 2.0
 
@@ -104,19 +101,17 @@ and competitive analysis.
 <br>
 
 <a href="https://github.com/aashaymeharkure/cloud9-assistant">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+---
 
-<td width="50%" valign="top">
-
-## 🚘 TrafficEnforce
+## 🚘 TRAFFIC ENFORCE
 
 ### AI-Powered Number Plate Detection
 
 A computer-vision based traffic enforcement system combining detection,
-OCR and a JavaFX interface.
+OCR, AI-assisted extraction and a JavaFX interface.
 
 **Highlights**
 
@@ -136,18 +131,12 @@ OCR and a JavaFX interface.
 <br>
 
 <a href="https://github.com/aashaymeharkure/NumberPlateDetection">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+---
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚡ CacheX
+## ⚡ CACHE X
 
 ### Adaptive Intelligent Cache Management
 
@@ -172,14 +161,12 @@ frequency** while predicting future requests.
 <br>
 
 <a href="https://github.com/aashaymeharkure/CacheX">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+---
 
-<td width="50%" valign="top">
-
-## 🌐 Personal Portfolio
+## 🌐 PERSONAL PORTFOLIO
 
 ### Creative Developer Portfolio
 
@@ -206,19 +193,16 @@ projects, skills, development roadmap and contact information.
 <a href="https://aashaymeharkure06.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00A98F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://github.com/aashaymeharkure/portfolio">
-<img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-# 🧠 What I'm Interested In
+# 🧠 WHAT I'M INTERESTED IN
 
 <div align="center">
 
@@ -226,6 +210,8 @@ projects, skills, development roadmap and contact information.
 | :------------------------: | :-----------------: | :---------------------: |
 |    ML & AI Applications    |      ANPR / OCR     |    Full-Stack Systems   |
 |     Intelligent Systems    |   Image Processing  |   Backend Development   |
+
+<br>
 
 |     🧠 Algorithms     |    🗄️ Databases   |  🎨 Product Development  |
 | :-------------------: | :----------------: | :----------------------: |
@@ -236,19 +222,40 @@ projects, skills, development roadmap and contact information.
 
 ---
 
-# 📊 GitHub Analytics
+# 🧪 CURRENTLY BUILDING
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🤖  AI / ML                                                ║
+║       └── Practical intelligent applications                 ║
+║                                                              ║
+║   👁️  COMPUTER VISION                                         ║
+║       └── Detection • OCR • Image Processing                ║
+║                                                              ║
+║   ⚙️  SYSTEMS                                                ║
+║       └── Algorithms • Caching • Performance                 ║
+║                                                              ║
+║   🌐  FULL STACK                                              ║
+║       └── Frontend • Backend • APIs • Databases              ║
+║                                                              ║
+║   🚀  NEXT                                                   ║
+║       └── Bigger systems • Better architecture               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aashaymeharkure&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aashaymeharkure&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashaymeharkure&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashaymeharkure&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
@@ -256,7 +263,7 @@ projects, skills, development roadmap and contact information.
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -266,52 +273,102 @@ projects, skills, development roadmap and contact information.
 
 ---
 
-# 📈 Contribution Activity
+# 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aashaymeharkure&bg_color=0d1117&color=58a6ff&line=00c9a7&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aashaymeharkure&bg_color=050816&color=00D9FF&line=4F46E5&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-snake-dark.svg"
+/>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-snake.svg"
+ alt="GitHub Contribution Snake"
+ width="100%"
+/>
+
+</picture>
 
 </div>
 
 ---
 
-# 🌐 Let's Connect
+# 🛰️ THE ROAD AHEAD
 
 <div align="center">
 
-<a href="https://github.com/aashaymeharkure">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aashay-meharkure-8a4592244/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://aashaymeharkure06.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00A98F?style=for-the-badge&logo=vercel"/>
-</a>
+|      🚀 BUILD      |         🧠 LEARN         |     ⚡ OPTIMIZE    |     🌎 SHIP     |   🔥 REPEAT  |
+| :----------------: | :----------------------: | :---------------: | :-------------: | :----------: |
+| Real-world systems | AI & intelligent systems | Better algorithms | Useful products | Stay curious |
 
 </div>
 
 ---
 
+# 🌐 LET'S CONNECT
+
 <div align="center">
 
-### 💡 Build. Learn. Experiment. Repeat.
+### Have an idea?
+
+### Have a problem worth solving?
+
+### Or just want to talk tech?
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:667eea&height=120&section=footer"/>
+<a href="https://github.com/aashaymeharkure">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/aashay-meharkure-8a4592244/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://aashaymeharkure06.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│        BUILDING THE FUTURE, ONE PROJECT AT A TIME.          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### ⚡ Build. Learn. Experiment. Repeat.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4F46E5,100:050816&height=140&section=footer"/>
 
 </div>
