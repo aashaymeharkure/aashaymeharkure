@@ -1,34 +1,102 @@
 <div align="center">
 
-# ⚡ AASHAY MEHARKURE
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:312E81,80:4F46E5,100:06B6D4&height=250&section=header&text=AASHAY%20MEHARKURE&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
+width="100%"
+/>
 
-### `ENGINEER` • `BUILDER` • `AI/ML` • `COMPUTER VISION` • `SYSTEMS`
+<br>
 
-> **Turning ideas into intelligent, usable software.**
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=900&lines=COMPUTER+ENGINEERING+%E2%9A%A1;SOFTWARE+ENGINEER+%F0%9F%9A%80;AI%2FML+BUILDER+%F0%9F%A4%96;COMPUTER+VISION+%F0%9F%91%81%EF%B8%8F;SYSTEMS+%26+ALGORITHMS+%E2%9A%99%EF%B8%8F;I+BUILD+THINGS+THAT+ACTUALLY+DO+SOMETHING."
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00D9FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20SYSTEMS-4F46E5?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-7C3AED?style=for-the-badge&labelColor=020617"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="150">
+
+### 🤖
+**AI / ML**
+
+</td>
+
+<td align="center" width="150">
+
+### 👁️
+**VISION**
+
+</td>
+
+<td align="center" width="150">
+
+### ⚙️
+**SYSTEMS**
+
+</td>
+
+<td align="center" width="150">
+
+### 🚀
+**PRODUCT**
+
+</td>
+
+<td align="center" width="150">
+
+### 🧠
+**ALGORITHMS**
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <a href="https://github.com/aashaymeharkure">
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/aashay-meharkure-8a4592244/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
+
 &nbsp;
+
 <a href="https://aashaymeharkure06.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=vercel&logoColor=67E8F9"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aashaymeharkure&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<img
+src="https://komarev.com/ghpvc/?username=aashaymeharkure&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"
+/>
+
+<br><br>
+
+<sub>
+
+`BUILD` → `BREAK` → `DEBUG` → `LEARN` → `SHIP` → `REPEAT`
+
+</sub>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a **Computer Engineering student** who enjoys turning ideas into
 working software.
@@ -36,22 +104,22 @@ working software.
 My interests sit at the intersection of **software engineering,
 artificial intelligence, computer vision, algorithms and system design**.
 
-I like building projects that go beyond just writing code — projects
+I like building projects that go beyond simply writing code — projects
 with usable interfaces, intelligent systems, backend logic, data
 processing, visualization and real-world applications.
 
 ### ⚡ What I Build
 
-* 🤖 AI-powered applications
-* 👁️ Computer Vision & ANPR systems
-* ⚙️ Backend & full-stack applications
-* 🧠 Algorithms & intelligent systems
-* 🗄️ Database-driven applications
-* 🎨 Interactive developer experiences
+- 🤖 AI-powered applications
+- 👁️ Computer Vision & ANPR systems
+- ⚙️ Backend & full-stack applications
+- 🧠 Algorithms & intelligent systems
+- 🗄️ Database-driven applications
+- 🎨 Interactive developer experiences
 
 ---
 
-# 🛠️ TECH STACK
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -75,7 +143,7 @@ processing, visualization and real-world applications.
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 Featured Projects
 
 ## 🤖 ARTEMIS 2.0
 
@@ -86,13 +154,13 @@ and competitive analysis.
 
 **Highlights**
 
-* 📈 Win-probability prediction
-* 🧠 Explainable AI-style factor breakdown
-* 🎯 Pick / ban recommendations
-* ⏪ Strategic Time Machine
-* 📦 JSON strategy export
-* 🎙️ Voice command MVP
-* 🔌 GRID API + deterministic fallback
+- 📈 Win-probability prediction
+- 🧠 Explainable AI-style factor breakdown
+- 🎯 Pick / ban recommendations
+- ⏪ Strategic Time Machine
+- 📦 JSON strategy export
+- 🎙️ Voice command MVP
+- 🔌 GRID API + deterministic fallback
 
 **Stack**
 
@@ -106,7 +174,7 @@ and competitive analysis.
 
 ---
 
-## 🚘 TRAFFIC ENFORCE
+## 🚘 TrafficEnforce
 
 ### AI-Powered Number Plate Detection
 
@@ -115,14 +183,14 @@ OCR, AI-assisted extraction and a JavaFX interface.
 
 **Highlights**
 
-* 📷 Image & webcam detection
-* 🔎 OpenCV plate detection
-* 🔤 Tesseract OCR
-* ✨ Gemini-assisted extraction
-* 🇮🇳 Indian number-plate formatting
-* 📋 Violation management
-* 💾 Detection logging
-* 🖥️ JavaFX interface
+- 📷 Image & webcam detection
+- 🔎 OpenCV plate detection
+- 🔤 Tesseract OCR
+- ✨ Gemini-assisted extraction
+- 🇮🇳 Indian number-plate formatting
+- 📋 Violation management
+- 💾 Detection logging
+- 🖥️ JavaFX interface
 
 **Stack**
 
@@ -136,7 +204,7 @@ OCR, AI-assisted extraction and a JavaFX interface.
 
 ---
 
-## ⚡ CACHE X
+## ⚡ CacheX
 
 ### Adaptive Intelligent Cache Management
 
@@ -145,14 +213,14 @@ frequency** while predicting future requests.
 
 **Highlights**
 
-* 🔄 Hybrid LRU + LFU strategy
-* 📊 Entropy-based adaptation
-* 🔮 Markov-chain prediction
-* ⚡ Predictive prefetching
-* 📈 Live cache benchmarking
-* 🖥️ Interactive visualization
-* ☕ Java backend
-* 🌐 Modern web frontend
+- 🔄 Hybrid LRU + LFU strategy
+- 📊 Entropy-based adaptation
+- 🔮 Markov-chain prediction
+- ⚡ Predictive prefetching
+- 📈 Live cache benchmarking
+- 🖥️ Interactive visualization
+- ☕ Java backend
+- 🌐 Modern web frontend
 
 **Stack**
 
@@ -166,7 +234,7 @@ frequency** while predicting future requests.
 
 ---
 
-## 🌐 PERSONAL PORTFOLIO
+## 🌐 Personal Portfolio
 
 ### Creative Developer Portfolio
 
@@ -175,14 +243,14 @@ projects, skills, development roadmap and contact information.
 
 **Highlights**
 
-* ✨ Animated preloader
-* 🎨 Custom visual background
-* 🧩 Component-based architecture
-* 🛠️ Interactive tech stack
-* 🚀 Project showcase
-* 📍 Development roadmap
-* 📬 Contact section
-* 🛡️ React error boundary
+- ✨ Animated preloader
+- 🎨 Custom visual background
+- 🧩 Component-based architecture
+- 🛠️ Interactive tech stack
+- 🚀 Project showcase
+- 📍 Development roadmap
+- 📬 Contact section
+- 🛡️ React error boundary
 
 **Stack**
 
@@ -194,7 +262,7 @@ projects, skills, development roadmap and contact information.
 <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00A98F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
- 
+&nbsp;
 
 <a href="https://github.com/aashaymeharkure/portfolio">
 <img src="https://img.shields.io/badge/SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
@@ -202,27 +270,29 @@ projects, skills, development roadmap and contact information.
 
 ---
 
-# 🧠 WHAT I'M INTERESTED IN
+# 🧠 What I'm Interested In
 
 <div align="center">
 
 | 🤖 Artificial Intelligence | 👁️ Computer Vision | ⚙️ Software Engineering |
-| :------------------------: | :-----------------: | :---------------------: |
-|    ML & AI Applications    |      ANPR / OCR     |    Full-Stack Systems   |
-|     Intelligent Systems    |   Image Processing  |   Backend Development   |
+|:---:|:---:|:---:|
+| ML & AI Applications | ANPR / OCR | Full-Stack Systems |
+| Intelligent Systems | Image Processing | Backend Development |
 
 <br>
 
-|     🧠 Algorithms     |    🗄️ Databases   |  🎨 Product Development  |
-| :-------------------: | :----------------: | :----------------------: |
-|   DSA & Optimization  | SQL & Data Systems |          UI / UX         |
-| Predictive Algorithms |    Data Modeling   | Interactive Applications |
+| 🧠 Algorithms | 🗄️ Databases | 🎨 Product Development |
+|:---:|:---:|:---:|
+| DSA & Optimization | SQL & Data Systems | UI / UX |
+| Predictive Algorithms | Data Modeling | Interactive Applications |
 
 </div>
 
 ---
 
-# 🧪 CURRENTLY BUILDING
+# 🧪 Currently Building
+
+<div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -243,132 +313,3 @@ projects, skills, development roadmap and contact information.
 ║       └── Bigger systems • Better architecture               ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aashaymeharkure&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashaymeharkure&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashaymeharkure&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
----
-
-# 🏆 GITHUB ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aashaymeharkure&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aashaymeharkure&bg_color=050816&color=00D9FF&line=4F46E5&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<picture>
-
-<source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-snake-dark.svg"
-/>
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-snake.svg"
-/>
-
-<img
- src="https://raw.githubusercontent.com/aashaymeharkure/aashaymeharkure/output/github-snake.svg"
- alt="GitHub Contribution Snake"
- width="100%"
-/>
-
-</picture>
-
-</div>
-
----
-
-# 🛰️ THE ROAD AHEAD
-
-<div align="center">
-
-|      🚀 BUILD      |         🧠 LEARN         |     ⚡ OPTIMIZE    |     🌎 SHIP     |   🔥 REPEAT  |
-| :----------------: | :----------------------: | :---------------: | :-------------: | :----------: |
-| Real-world systems | AI & intelligent systems | Better algorithms | Useful products | Stay curious |
-
-</div>
-
----
-
-# 🌐 LET'S CONNECT
-
-<div align="center">
-
-### Have an idea?
-
-### Have a problem worth solving?
-
-### Or just want to talk tech?
-
-<br>
-
-<a href="https://github.com/aashaymeharkure">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/aashay-meharkure-8a4592244/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://aashaymeharkure06.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│        BUILDING THE FUTURE, ONE PROJECT AT A TIME.          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### ⚡ Build. Learn. Experiment. Repeat.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4F46E5,100:050816&height=140&section=footer"/>
-
-</div>
